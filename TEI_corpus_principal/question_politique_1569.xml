@@ -106,10 +106,10 @@
                                      <!-- Auteur réel inconnu -->
                                      <author cert="low"/>                                     
                                      <!-- Auteur auquel le texte est attribué -->
-                                     <author role="attributed" cert="medium" resp="#editor">
+                                     <author role="attributed" cert="high" resp="#editor">
                                         <persName>
-                                           <forename>Prénom</forename>
-                                           <surname>Nom</surname>
+                                           <forename>Jean</forename>
+                                           <surname>De Coras</surname>
                                         </persName>
                                      </author>                                     
                                      <title type="complete_title">

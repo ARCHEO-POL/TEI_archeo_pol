@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title> TITRE </title>
+            <title> De la puissnce légitime </title>
             <respStmt>
                <resp>Direction du projet ARCHEO-POL</resp>
                <persName xml:id="PAM">
@@ -83,19 +83,19 @@
                <addrLine>22 boulevard des Philosophes</addrLine>
                <addrLine>CH-1211 Genève</addrLine>
             </address>
-            <availability status="restricted" n="CC-BY">
+            <availability status="restricted" n="CC-BY"> <!--A modifier-->
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
                <p>Creative Commons Attribution 4.0 CC BY 4.0</p>
             </availability>
-            <date when="2025-12-02"/>
+            <date when="2026-01-02"/>
          </publicationStmt>
          <sourceDesc> <!-- décrit la source du document encodé-->
             <msDesc>
-               <msIdentifier xml:id="ENTRER LA COTE">
-                  <country>PAYS</country>
-                  <settlement>Localité</settlement>
-                  <institution>Institution où l'exemplaire est conservé</institution>
-                  <idno type="shelfmark">ENTRER LA COTE</idno>
+               <msIdentifier>
+                  <country>SUISSE</country>
+                  <settlement>Genève</settlement>
+                  <institution>Bibliothèque de Genève</institution>
+                  <idno type="shelfmark">BGE Ctd 5378</idno>
                </msIdentifier>
                <msContents>  <!--Décrit le contenu de l'objet-->
                      <biblStruct>
@@ -106,8 +106,8 @@
                                  <forename>NOM</forename>
                               </persName>
                            </author>
-                           <title type="complete_title">TITRE</title>
-                           <title type="short_title">TITRE ABREGE</title>
+                           <title type="complete_title">De la puissance legitime du prince sur le peuple, et du peuple sur le prince. Traité tresutile et digne de lecture en ce temps, escrit en Latin par Estienne Iunius Brutus, et nouvellement traduit en François</title>
+                           <title type="short_title">De la puissance legitime</title>
                            <imprint>
                               <pubPlace role="presumed_address" cert="medium" ref="geonames:3006787">La Rochelle</pubPlace>
                               <respStmt>
@@ -127,7 +127,7 @@
                      <supportDesc>
                         <support>
                            <dim>In-8°</dim>
-                           <signatures>SIGNATURE typographique</signatures>
+                           <!--<signatures>SIGNATURE typographique</signatures>-->
                         </support>
                      </supportDesc>
                   </objectDesc>
@@ -148,12 +148,12 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>
+                     <!--<bibl>
                         <ref target="https://www.ustc.ac.uk/editions/9536">
                            <orgName>USTC</orgName>
                            <idno>9536</idno>
                         </ref>
-                     </bibl>
+                     </bibl>-->
                   </listBibl>
                </additional>
             </msDesc>
@@ -202,17 +202,17 @@
          </langUsage>
          <textClass>
             <keywords>
-               <term type="form">prose</term>
+               <!--<term type="form">prose</term>
                <term type="segmentation_quality">gold</term>
                <term type="transcription_quality">gold</term>
-               <term type="reg_quality">gold</term>
+               <term type="reg_quality">gold</term>-->
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-03-26" who="#SS">Création du fichier TEI P5.</change>
-         <change when="2025-04-01" who="#MD">Normalisation intermédiaire ou semi-diplomatique terminée.</change>
-         <change when="2025-05-15" who="#SS">Révision des métadonnées.</change>
+         <change when="2026-01-02" who="#AB">Création du fichier TEI P5.</change>
+       <!--  <change when="2025-04-01" who="#AB">Normalisation intermédiaire ou semi-diplomatique terminée.</change>-->
+         <change when="2026-01-02" who="#SS">Révision des métadonnées.</change>
       </revisionDesc>
    </teiHeader>
    <sourceDoc>
