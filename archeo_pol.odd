@@ -762,6 +762,7 @@
                            <valItem ident="MarginTextZone"/>
                            <valItem ident="MarginTextZone:handwrittenAddition"/>
                            <valItem ident="TableZone"/>
+                           <valItem ident="MarginTextZone-Notes"/>
                         </valList>
                      </attDef>
                      <attDef ident="place" mode="change">
@@ -827,11 +828,11 @@
                <!-- Checking element "pubPlace" -->
                <elementSpec ident="pubPlace" mode="change">
                   <attList>
-                     <attDef ident="type" mode="change">
-                       <valList mode="add" type="closed">
+                     <attDef ident="type" mode="add">
+                       <valList type="closed">
                          <valItem ident="presumed"/>
                          <valItem ident="certain"/>
-                         <valItem ident="unknown"/>
+                         <valItem ident="declared"/>
                          <valItem ident="unknown"/>
                        </valList>
                      </attDef>
@@ -862,7 +863,7 @@
                   <constraintSpec ident="publisher_check" scheme="schematron">
                      <constraint>
                         <sch:rule context="tei:publisher">
-                           <sch:assert test="contains(.,'Projet SETAF')">The publisher is "Projet SETAF"</sch:assert>
+                           <sch:assert test="contains(.,'Projet ARCHEO-POL')">The publisher is "Projet ARCHEO-POL"</sch:assert>
                         </sch:rule>
                      </constraint>
                   </constraintSpec> 
@@ -1059,6 +1060,9 @@
                            <valItem ident="MainZone"/>
                            <valItem ident="TitlePageZone"/>
                            <valItem ident="DropCapitalZone"/>
+                           <valItem ident="MainZone-Head"/>
+                           <valItem ident="MainZone-P"/>
+                           <valItem ident="MainZone-Continued"/>
                         </valList>
                      </attDef>
                      <attDef ident="subtype" mode="delete"/>
@@ -1423,6 +1427,10 @@
                            <valItem ident="StampZone"/>
                            <valItem ident="TableZone"/>
                            <valItem ident="TitlePageZone"/>
+                           <valItem ident="MainZone-Head"/>
+                           <valItem ident="MainZone-P"/>
+                           <valItem ident="MarginTextZone-Notes"/>
+                           <valItem ident="MainZone-Continued"/>
                         </valList>
                      </attDef>
                   </attList>
