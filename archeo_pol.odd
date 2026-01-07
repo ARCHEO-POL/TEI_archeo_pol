@@ -1065,6 +1065,8 @@
                            <valItem ident="MainZone-Continued"/>
                            <valItem ident="DigitizationArtefactZone"/>
                            <valItem ident="MainZone-Sp"/>
+                           <valItem ident="MainZone-Lg"/>
+                          
                            
                         </valList>
                      </attDef>
@@ -1436,6 +1438,7 @@
                            <valItem ident="MainZone-Continued"/>
                            <valItem ident="DigitizationArtefactZone"/>
                            <valItem ident="MainZone-Sp"/>
+                           <valItem ident="MainZone-Lg"/>
                         </valList>
                      </attDef>
                   </attList>
