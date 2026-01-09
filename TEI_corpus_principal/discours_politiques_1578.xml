@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/ARCHEO-POL/TEI_archeo_pol/refs/heads/main/out/archeo_pol.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/ARCHEO-POL/TEI_archeo_pol/refs/heads/main/out/archeo_pol.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="discours_politiques_1578">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="discours_politique_1578">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title> Discours Politiques des diverses puissances </title>
-            <respStmt>
+            <title> Discours politique des diverses puissances </title>
+           <respStmt>
                <resp>Direction du projet ARCHEO-POL</resp>
                <persName xml:id="PAM">
                   <forename>Paul-Alexis</forename>
@@ -29,7 +29,7 @@
                   <surname>Paoli</surname>
                   <ptr type="orcid" target="0000-0002-2592-8724"/>
                </persName>
-               <persName xml:id="AB">
+               <persName>
                   <forename>Alyzé</forename>
                   <surname>Bianco</surname>
                   <ptr type="orcid" target="0009-0001-8423-0350"/>
@@ -37,12 +37,12 @@
                <persName xml:id="NC">
                   <forename>Nicolas</forename>
                   <surname>Champeaux</surname>
-                  <ptr type="orcid" target=""/>
+                  <ptr type="orcid" target="0009-0004-0181-7968"/>
                </persName>
             </respStmt>
             <respStmt>
                <resp>Normalisation</resp>
-               <persName xml:id="AB">
+               <persName>
                   <forename>Alyzé</forename>
                   <surname>Bianco</surname>
                   <ptr type="orcid" target="0009-0001-8423-0350"/>
@@ -55,7 +55,7 @@
                   <surname>Gabay</surname>
                   <ptr type="orcid" target="0000-0001-9094-4475"/>
                </persName>
-               <persName>
+               <persName xml:id="SGU">
                   <forename>Sidney</forename>
                   <surname>Guiot</surname>
                </persName>
@@ -75,13 +75,8 @@
                   <surname>Bianco</surname>
                   <ptr type="orcid" target="0009-0001-8423-0350"/>
                </persName>
-               <persName>
-                  <forename>Lorenzo</forename>
-                  <surname>Paoli</surname>
-                  <ptr type="orcid" target="0000-0002-2592-8724"/>
-               </persName>
             </respStmt>
-         </titleStmt>
+           </titleStmt>
          <extent/>
          <publicationStmt>
             <publisher>Projet ARCHEO-POL</publisher>
@@ -90,67 +85,46 @@
                <addrLine>22 boulevard des Philosophes</addrLine>
                <addrLine>CH-1211 Genève</addrLine>
             </address>
-            <availability status="restricted" n="CC-BY"> <!--Le type d'accès doit être modifié mais une erreur s'affiche en cas de modif - à verifier-->
+            <availability status="restricted" n="CC-BY">
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
                <p>Creative Commons Attribution 4.0 CC BY 4.0</p>
             </availability>
-            <date when="2025-12-29"/>
+            <date when="2025-12-23"/>
          </publicationStmt>
-         <sourceDesc>  <!--décrit la source du document encodé -->
-                    <msDesc>
-                       <msIdentifier>
+         <sourceDesc><!--  décrit la source du document encodé -->
+            <msDesc>
+               <msIdentifier xml:id=" TH587A3">
                   <country>SUISSE</country>
                   <settlement>Lausanne</settlement>
-                  <institution>Bibliothèque de Lausanne</institution>
-                  <idno type="shelfmark">TH 587 A/3</idno>
+                  <institution>Bibliothèque Cantonale et Universitaire Lausanne </institution>
+                  <idno type="shelfmark"> TH587A/3</idno>
                </msIdentifier>
-               <msContents> <!-- Décrit le contenu de l'objet-->
-                            <p>
-                     <biblStruct>                                                 
-                           <!-- Texte contenu -->
-                           <analytic>  <!--/!\L'ODD doit être modifié afin de pouvoir ajouter cette balise !-->
-                              <author> NR </author>                              
-                              <title type="complete_title">
-                                 Discours politiques des diverses puissances establies de Dieu au monde,
-                                 du gouvernement legitime d'icelles, et de ceux qui y sont assujettis:
-                                 necessaires et pleins d'eccellentes instructions à toutes sortes de personnes
-                              </title>                              
-                              <title type="short_title">
-                                 Discours politiques des diverses puissances
-                              </title>
-                           </analytic>                           
-                           <!-- Ouvrage hôte -->
-                           <monogr>                              
-                              <author>
-                                 <persName>
-                                    <forename>Simon</forename>
-                                    <surname>Goulart</surname>
-                                 </persName>
-                              </author>                              
-                              <title>
-                                 Mémoire de l'Estat de France sous Charles neuviesme
-                              </title>                              
-                              <imprint>
-                                 
-                                 <!-- Lieu indiqué sur la page de titre (faux) -->
-                                 <pubPlace type="declared" cert="low" ref="geonames:2750896"> <!--/!\L'ODD doit être modifié afin de pouvoir ajouter cette balise !-->
-                                    Meidelbourg
-                                 </pubPlace>                                 
-                                 <!-- Lieu réel / présumé -->
-                                 <pubPlace type="presumed" cert="medium" resp="#editor" ref="geonames:2660646"> <!--/!\L'ODD doit être modifié afin de pouvoir ajouter cette balise !-->
-                                    Genève
-                                 </pubPlace>                                 
-                                 <!-- Imprimeur indiqué -->
-                                 <publisher type="declared" cert="low">
-                                    Heinrich Wolf
-                                 </publisher>                                 
-                                 <!-- Imprimeur réel / présumé -->
-                                 <publisher type="presumed" cert="medium" resp="#editor">
-                                    Eustace Vignon
-                                 </publisher>                                 
-                                 <date cert="high">1578</date>                                 
-                              </imprint>                              
-                           </monogr>                           
+               <msContents> <!-- Décrit le contenu de l'objet -->
+                  <p>
+                     <biblStruct>
+                        <monogr>
+                           <!-- Auteur tel que le texte se présente : anonyme -->
+                           <author role="anonymous">
+                              <persName>Anon.</persName>
+                           </author>                           
+                           <!--<!-\- Attribution savante -\->
+                           <author role="attributed">
+                              <persName ref="">
+                                 <forename></forename>
+                                 <surname></surname>
+                              </persName>
+                           </author>-->
+                           <title type="complete_title">Discours politiques des diverses puissances establies de Dieu au monde, du gouvernement legitime d'icelles, et de ceux qui y sont assujettis: necessaires et pleins d'eccellentes instructions à toutes sortes de personnes</title>
+                           <title type="short_title">Discours politiques des diverses puissances</title>
+                           <imprint>
+                              <pubPlace role="presumed_address" cert="medium" ref="geonames:2986495">Poitiers</pubPlace>
+                              <date cert="high">1578</date> 
+                              <note>
+                                 Texte transmis comme pièce autonome intégrée dans les
+                                 <title>Mémoires de l’estat de France</title> de Simon Goulart.
+                              </note>
+                           </imprint>
+                        </monogr>
                      </biblStruct>
                   </p>
                </msContents>
@@ -159,17 +133,17 @@
                      <supportDesc>
                         <support>
                            <dim>In-8°</dim>
-                           <!--<signatures>SIGNATURE typographique</signatures>-->
+                           <!--<signatures>SIGNATURE typographique</signatures-->>
                         </support>
                      </supportDesc>
                   </objectDesc>
                </physDesc>
                <additional>
-                  <!--<surrogates> 
+                  <surrogates>
                      <bibl>
-                        <ref target="https://doi.org/10.3931/e-rara-29284"/>
+                        <ref target="https://doi.org/10.3931/e-rara-29284 "/>
                         <relatedItem type="original">
-                           <ref target="#MHR_MHR_D_Den_1">e-rara</ref>
+                           <ref target="#TH587A/3">e-rara</ref>
                         </relatedItem>
                         <availability>
                            <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en"/>
@@ -178,28 +152,20 @@
                            <p>Édition : CC BY</p>
                         </availability>
                      </bibl>
-                  </surrogates>-->
-                  <!--<listBibl>
-                     <bibl>
-                        <ref target="https://www.ustc.ac.uk/editions/9536">
-                           <orgName>USTC</orgName>
-                           <idno>9536</idno>
-                        </ref>
-                     </bibl>
-                  </listBibl>-->
+                  </surrogates>                  
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
-            <p>Ce corpus numérique s'inscrit dans le cadre du projet ARCHEO-POL <ref target="https://www.unige.ch/archeopol/"/>, dirigé par le Paul-Alexis Mellet (IHR)  
-                        et financé par le FNS : <ref target="https://data.snf.ch/grants/grant/219694/"/>.</p>
+            <p>Ce corpus numérique s'inscrit dans le cadre du projet ARCHEO-POL <ref target="https://www.unige.ch/archeopol/"/>, dirigé par le Paul-Alexis Mellet (IHR) 
+               et financé par le FNS : <ref target="https://data.snf.ch/grants/grant/219694/"/>.</p>
          </projectDesc>
          <editorialDecl>
             <correction>
                <p>Voir le guide de transcription du projet ARCHEOPOL : <ref target="AJOUTER LIEN "/>. La segmentation a été produite manuellement 
-                            et la transcription issue de l'OCR a été vérifiée.</p>
+                  et la transcription issue de l'OCR a été vérifiée.</p>
             </correction>
             <normalization>
                <p>Pour les règles de normalisation, voir le lien suivant : <ref target="AJOUTER LIEN"/>. La normalisation s'est basée sur les règles de transcription semi-diplomatique. </p>
@@ -212,7 +178,7 @@
             </application>
          </appInfo>
          <appInfo>
-            <application ident="FoNDUE" version="0.1"> <!--A vérifier !-->
+            <application ident="FoNDUE" version="0.1">
                <label>FoNDUE</label>
                <ptr target="https://test2.fondue.unige.ch/"/>
             </application>
@@ -233,18 +199,17 @@
             <language ident="frm">Français du XVIe siècle</language>
          </langUsage>
          <textClass>
-          <!--  <keywords>
+            <keywords>
                <term type="form">prose</term>
                <term type="segmentation_quality">gold</term>
-               <term type="transcription_quality">gold</term>
-               <term type="reg_quality">gold</term>
-            </keywords>-->
+               <term type="transcription_quality">gold</term>               
+            </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-23-12" who="#AB">Création du fichier TEI P5.</change>
-         <change when="2025-12-29" who="#AB">Révision des métadonnées.</change>
-         <!--change when="A venir" who="#AB">Normalisation intermédiaire ou semi-diplomatique terminée.</change>-->
+         <change when="2025-03-26" who="#SS">Création du fichier TEI P5.</change>
+         <change when="2025-04-01" who="#MD">Normalisation intermédiaire ou semi-diplomatique terminée.</change>
+         <change when="2025-05-15" who="#SS">Révision des métadonnées.</change>
       </revisionDesc>
    </teiHeader>
    <sourceDoc>
@@ -278,7 +243,7 @@
             </zone>
          </zone>
          <zone xml:id="f000_eSc_textblock_924ebb80-19dc-44ec-94ff-fb233af9a984"
-            type="MainZone-Head" <!--/!\L'ODD doit être modifié afin de pouvoir ajouter cette balise !-->
+               type="MainZone-Head"
                n="2"
                ulx="241.0"
                uly="164.0"
@@ -353,7 +318,7 @@
             </zone>
          </zone>
          <zone xml:id="f000_eSc_textblock_308329ba-065d-4477-bee6-956a406ec2d7"
-            type="MainZone-Head" <!--/!\L'ODD doit être modifié afin de pouvoir ajouter cette balise !-->
+               type="MainZone-Head"
                n="3"
                ulx="281.0"
                uly="355.0"
@@ -412,7 +377,7 @@
             </zone>
          </zone>
          <zone xml:id="f000_eSc_textblock_e68cf11a-7879-4d30-a1ce-9d46e570cbce"
-            type="MarginTextZone-Notes" <!--/!\L'ODD doit être modifié afin de pouvoir ajouter cette balise !-->
+               type="MarginTextZone-Notes"
                n="4"
                ulx="108.0"
                uly="512.0"
@@ -439,7 +404,7 @@
             </zone>
          </zone>
          <zone xml:id="f000_eSc_textblock_d3fd4627-70de-4a94-82cc-d65a6901b876"
-            type="MainZone-P" <!--/!\L'ODD doit être modifié afin de pouvoir ajouter cette balise !-->
+               type="MainZone-P"
                n="5"
                ulx="251.0"
                uly="506.0"
@@ -1066,7 +1031,7 @@
             </zone>
          </zone>
          <zone xml:id="f001_eSc_textblock_478387db-b6b0-4fc8-8455-558421845e30"
-            type="MainZone-Continued" <!--/!\L'ODD doit être modifié afin de pouvoir ajouter cette balise !-->
+               type="MainZone-Continued"
                n="3"
                ulx="53.0"
                uly="168.0"
@@ -1125,7 +1090,7 @@
             </zone>
          </zone>
          <zone xml:id="f001_eSc_textblock_ad224644-5307-49cb-8ec0-e12a87239f63"
-            type="MainZone-P" <!--/!\L'ODD doit être modifié afin de pouvoir ajouter cette balise !-->
+               type="MainZone-P"
                n="4"
                ulx="55.0"
                uly="264.0"
@@ -1691,7 +1656,7 @@
             </zone>
          </zone>
          <zone xml:id="f001_eSc_textblock_8f34ec62-dd84-479b-ac0e-75edba8dbe8d"
-            type="MainZone-P" <!--/!\L'ODD doit être modifié afin de pouvoir ajouter cette balise !-->
+               type="MainZone-P"
                n="6"
                ulx="62.0"
                uly="1301.0"
@@ -1809,7 +1774,7 @@
             </zone>
          </zone>
          <zone xml:id="f001_eSc_textblock_2a69512d-2972-4792-9f2a-61a4db39495f"
-            type="MarginTextZone-Notes" <!--/!\L'ODD doit être modifié afin de pouvoir ajouter cette balise !-->
+               type="MarginTextZone-Notes"
                n="8"
                ulx="720.0"
                uly="262.0"

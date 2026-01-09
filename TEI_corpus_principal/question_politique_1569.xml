@@ -37,6 +37,7 @@
                <persName xml:id="NC">
                   <forename>Nicolas</forename>
                   <surname>Champeaux</surname>
+                  <ptr type="orcid" target="0009-0004-0181-7968"/>
                </persName>
             </respStmt>
             <respStmt>
@@ -88,50 +89,40 @@
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
                <p>Creative Commons Attribution 4.0 CC BY 4.0</p>
             </availability>
-            <date when="2025-12-30"/>
+            <date when="2025-12-23"/>
          </publicationStmt>
          <sourceDesc><!--  décrit la source du document encodé -->
                     <msDesc>
-                  <msIdentifier>
+                  <msIdentifier xml:id="MUEBongIV5842">
                   <country>SUISSE</country>
                   <settlement>Bern</settlement>
-                  <institution>Bibliothèque universitaire de Bern</institution>
-                  <idno type="shelfmark">MUE Bong IV 584 : 2</idno>
+                     <institution>Universitätsbibliothek Bern</institution>
+                     <idno type="shelfmark">MUEBongIV584:2</idno>
                </msIdentifier>
                <msContents> <!-- Décrit le contenu de l'objet -->
                             <p>
-                               <biblStruct>                                                 
-                                 <monogr>  <!--vérifier ici si la balise monogr est adaptée-->                            
-                                    <!-- Auteur réel inconnu -->
-                                    <author cert="low"/>                                     
-                                    <!-- Auteur auquel le texte est attribué -->
-                                    <author role="attributed" cert="high">
-                                       <persName>
-                                          <forename>Jean</forename>
-                                          <surname>De Coras</surname>
-                                       </persName>
-                                    </author>                                     
-                                    <title type="complete_title">
-                                       Question politique, s'il est licite aux subjets de capituler avec leur prince
-                                    </title>                                     
-                                    <title type="short_title">
-                                       Question Politique
-                                    </title>                                     
-                                    <imprint>                                        
-                                       <!-- Lieu indiqué sur la page de titre -->
-                                       <pubPlace type="declared" cert="low" ref="geonames:2986495">
-                                          Poitiers
-                                       </pubPlace>                                        
-                  <!--                     <!-\- Lieu réel / présumé : inconnu -\->
-                                       <pubPlace type="presumed" cert="medium"/>
-                                       <!-\- Imprimeur indiqué : inconnu -\->
-                                       <publisher type="declared" cert="low"/>
-                                       <!-\- Imprimeur réel / présumé : inconnu -\->
-                                       <publisher type="presumed" cert="medium" resp="#editor"/>-->
-                                       <date cert="low">1619</date>
-                                    </imprint>                            
-                                  </monogr>                           
-                               </biblStruct>
+                     <biblStruct>
+                        <monogr>
+                           <!-- Auteur tel que le texte se présente : anonyme -->
+                           <author role="anonymous">
+                              <persName>Anon.</persName>
+                           </author>                           
+                           <!-- Attribution savante -->
+                           <author role="attributed">
+                              <persName ref="Jean de Coras">
+                                 <forename>Jean</forename>
+                                 <surname>de Coras</surname>
+                              </persName>
+                           </author>
+                           <title type="complete_title">Qvestion Politiqve, S'Il Est Licite Avx Svbiets de capituler auec leur Prince</title>
+                           <title type="short_title">Question Politique</title>
+                           <imprint>
+                              <pubPlace role="presumed_address" cert="medium" ref="geonames:2986495">Poitiers</pubPlace>
+                              <date cert="low">1619</date>
+                              <date cert="high">1569</date> 
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
                   </p>
                </msContents>
                <physDesc>
@@ -139,7 +130,7 @@
                      <supportDesc>
                         <support>
                            <dim>In-8°</dim>
-                          <!-- <signatures>SIGNATURE typographique</signatures>-->
+                           <!--<signatures>SIGNATURE typographique</signatures-->>
                         </support>
                      </supportDesc>
                   </objectDesc>
@@ -147,9 +138,9 @@
                <additional>
                   <surrogates>
                      <bibl>
-                        <ref target="https://doi.org/10.3931/e-rara-140244"/>
+                        <ref target="https://doi.org/10.3931/e-rara-140244 "/>
                         <relatedItem type="original">
-                           <ref target="MUEBongIV584:21">e-rara</ref>
+                           <ref target="#MUEBongIV5842">e-rara</ref>
                         </relatedItem>
                         <availability>
                            <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en"/>
@@ -159,6 +150,14 @@
                         </availability>
                      </bibl>
                   </surrogates>
+                  <listBibl>
+                     <bibl>
+                        <!--<ref target="https://www.ustc.ac.uk/editions/9536">
+                           <orgName>USTC</orgName>
+                           <idno>9536</idno>
+                        </ref>-->
+                     </bibl>
+                  </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
@@ -206,16 +205,16 @@
          </langUsage>
          <textClass>
             <keywords>
-               <term type="form">genre argumentatif</term>
+               <term type="form">prose</term>
                <term type="segmentation_quality">gold</term>
                <term type="transcription_quality">gold</term>               
             </keywords>
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2025-12-30" who="#AB">Création du fichier TEI P5.</change>
-         <!--<change when="2025-04-01" who="#AB">Normalisation intermédiaire ou semi-diplomatique terminée.</change>-->
-         <change when="2025-12-30" who="#AB">Révision des métadonnées.</change>
+         <change when="2025-03-26" who="#SS">Création du fichier TEI P5.</change>
+         <change when="2025-04-01" who="#MD">Normalisation intermédiaire ou semi-diplomatique terminée.</change>
+         <change when="2025-05-15" who="#SS">Révision des métadonnées.</change>
       </revisionDesc>
    </teiHeader>
    <sourceDoc>
