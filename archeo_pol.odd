@@ -1070,7 +1070,9 @@
                            <valItem ident="MainZone-Other"/>
                            <valItem ident="SealZone"/>
                            <valItem ident="MarginTextZone-ManuscriptAddendum"/>
-                           <valItem ident="MainZone-Signature"/>                     
+                           <valItem ident="MainZone-Signature"/>  
+                           <valItem ident="TitlePageZone-Index"/>
+                           <valItem ident="TableZone"/>
                           
                            
                         </valList>
@@ -1450,6 +1452,7 @@
                            <valItem ident="MarginTextZone-ManuscriptAddendum"/>
                            <valItem ident="MainZone-Signature"/>
                            <valItem ident="TitlePageZone-Index"/>
+                           <valItem ident="TableZone"/>
                         </valList>
                      </attDef>
                   </attList>
