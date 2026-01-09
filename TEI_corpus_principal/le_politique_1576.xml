@@ -76,7 +76,8 @@
                </persName>
             </respStmt>
          </titleStmt>
-         <publicationStmt>
+           <extent/>
+         <publicationStmt>          
             <publisher>Projet ARCHEO-POL</publisher>
             <authority>Institut d'Histoire de la Réformation (IHR), Université de Genève</authority>
             <address>
@@ -127,7 +128,7 @@
                                            Meidelbourg
                                         </pubPlace>                                 
                                         <!-- Lieu réel / présumé -->
-                                        <pubPlace type="presumed" cert="medium" resp="#editor" ref="geonames:2660646"> <!--/!\L'ODD doit être modifié afin de pouvoir ajouter cette balise !-->
+                                        <pubPlace type="presumed" cert="medium" ref="geonames:2660646"> <!--/!\L'ODD doit être modifié afin de pouvoir ajouter cette balise !-->
                                            Genève
                                         </pubPlace>                                 
                                         <!-- Imprimeur indiqué -->
@@ -135,7 +136,7 @@
                                            Heinrich Wolf
                                         </publisher>                                 
                                         <!-- Imprimeur réel / présumé -->
-                                        <publisher type="presumed" cert="medium" resp="#editor">
+                                        <publisher type="presumed" cert="medium">
                                            Eustace Vignon
                                         </publisher>                                 
                                         <date cert="high">1576</date>                                 
@@ -168,15 +169,7 @@
                            <p>Édition : CC BY</p>
                         </availability>
                      </bibl>
-                  </surrogates>
-                  <listBibl>
-                     <!--<bibl>
-                        <ref target="https://www.ustc.ac.uk/editions/9536">
-                           <orgName>USTC</orgName>
-                           <idno>9536</idno>-->
-                        <!--</ref>
-                     </bibl>-->
-                  </listBibl>
+                  </surrogates>                  
                </additional>
             </msDesc>
          </sourceDesc>
@@ -224,10 +217,9 @@
          </langUsage>
          <textClass>
             <keywords>
-               <<!--term type="form">prose</term>
+               <term type="form">dialogue</term>
                <term type="segmentation_quality">gold</term>
-               <term type="transcription_quality">gold</term>
-               <term type="reg_quality">gold</term>-->
+               <term type="transcription_quality">gold</term>              
             </keywords>
          </textClass>
       </profileDesc>

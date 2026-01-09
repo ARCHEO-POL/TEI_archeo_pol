@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/ARCHEO-POL/TEI_archeo_pol/refs/heads/main/out/archeo_pol.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/ARCHEO-POL/TEI_archeo_pol/refs/heads/main/out/archeo_pol.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="question_politique_1619">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="question_politique_1569">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,7 +79,7 @@
          <extent/>
          <publicationStmt>
             <publisher>Projet ARCHEO-POL</publisher>
-            <authority>Institut Histoire de la Réformation (IHR), Université de Genève</authority>
+            <authority>Institut d'Histoire de la Réformation (IHR), Université de Genève</authority>
             <address>
                <addrLine>22 boulevard des Philosophes</addrLine>
                <addrLine>CH-1211 Genève</addrLine>
@@ -101,50 +101,35 @@
                <msContents> <!-- Décrit le contenu de l'objet -->
                             <p>
                                <biblStruct>                                                 
-                                  <!-- Texte contenu -->
-                                  <analytic>                                     
-                                     <!-- Auteur réel inconnu -->
-                                     <author cert="low"/>                                     
-                                     <!-- Auteur auquel le texte est attribué -->
-                                     <author role="attributed" cert="high" resp="#editor">
-                                        <persName>
-                                           <forename>Jean</forename>
-                                           <surname>De Coras</surname>
-                                        </persName>
-                                     </author>                                     
-                                     <title type="complete_title">
-                                        Question politique, s'il est licite aux subjets de capituler avec leur prince
-                                     </title>                                     
-                                     <title type="short_title">
-                                        Question Politique
-                                     </title>                                     
-                                     <imprint>                                        
-                                        <!-- Lieu indiqué sur la page de titre -->
-                                        <pubPlace type="declared" cert="low" ref="geonames:2986495">
-                                           Poitiers
-                                        </pubPlace>                                        
-                                        <!-- Lieu réel / présumé : inconnu -->
-                                        <pubPlace type="presumed" cert="medium" resp="#editor"/>
-                                        <!-- Imprimeur indiqué : inconnu -->
-                                        <publisher type="declared" cert="low"/>
-                                        <!-- Imprimeur réel / présumé : inconnu -->
-                                        <publisher type="presumed" cert="medium" resp="#editor"/>
-                                        <date cert="low">1619</date>
-                                        </imprint>
-                                  </analytic>
-                                  <!-- Ouvrage hôte -->
-                                  <monogr>  <!--vérifier ici si la balise monogr est adaptée-->                            
-                                     <author>
-                                        <persName>
-                                           <forename>NR</forename>
-                                           <surname>NR</surname>
-                                        </persName>
-                                     </author>                              
-                                     <title>
-                                        NR
-                                     </title>                              
-                                     <imprint>                                                        
-                                     </imprint>                              
+                                 <monogr>  <!--vérifier ici si la balise monogr est adaptée-->                            
+                                    <!-- Auteur réel inconnu -->
+                                    <author cert="low"/>                                     
+                                    <!-- Auteur auquel le texte est attribué -->
+                                    <author role="attributed" cert="high">
+                                       <persName>
+                                          <forename>Jean</forename>
+                                          <surname>De Coras</surname>
+                                       </persName>
+                                    </author>                                     
+                                    <title type="complete_title">
+                                       Question politique, s'il est licite aux subjets de capituler avec leur prince
+                                    </title>                                     
+                                    <title type="short_title">
+                                       Question Politique
+                                    </title>                                     
+                                    <imprint>                                        
+                                       <!-- Lieu indiqué sur la page de titre -->
+                                       <pubPlace type="declared" cert="low" ref="geonames:2986495">
+                                          Poitiers
+                                       </pubPlace>                                        
+                  <!--                     <!-\- Lieu réel / présumé : inconnu -\->
+                                       <pubPlace type="presumed" cert="medium"/>
+                                       <!-\- Imprimeur indiqué : inconnu -\->
+                                       <publisher type="declared" cert="low"/>
+                                       <!-\- Imprimeur réel / présumé : inconnu -\->
+                                       <publisher type="presumed" cert="medium" resp="#editor"/>-->
+                                       <date cert="low">1619</date>
+                                    </imprint>                            
                                   </monogr>                           
                                </biblStruct>
                   </p>
@@ -164,7 +149,7 @@
                      <bibl>
                         <ref target="https://doi.org/10.3931/e-rara-140244"/>
                         <relatedItem type="original">
-                           <ref target="MUE Bong IV 584 : 21">e-rara</ref>
+                           <ref target="MUEBongIV584:21">e-rara</ref>
                         </relatedItem>
                         <availability>
                            <licence target="https://creativecommons.org/publicdomain/mark/1.0/deed.en"/>
@@ -219,14 +204,13 @@
          <langUsage>
             <language ident="frm">Français du XVIe siècle</language>
          </langUsage>
-         <!--<textClass>
+         <textClass>
             <keywords>
-               <term type="form">prose</term>
+               <term type="form">genre argumentatif</term>
                <term type="segmentation_quality">gold</term>
-               <term type="transcription_quality">gold</term>
-               <term type="reg_quality">gold</term>
+               <term type="transcription_quality">gold</term>               
             </keywords>
-         </textClass>-->
+         </textClass>
       </profileDesc>
       <revisionDesc>
          <change when="2025-12-30" who="#AB">Création du fichier TEI P5.</change>
@@ -2733,7 +2717,7 @@
                source="58,108,1272,2108/full/0/default.jpg"
                rotate="0">
             <zone xml:id="f00009_eSc_line_cea8b839"
-                  type=""
+               type="DefaultLine"
                   n="2"
                   ulx="91"
                   uly="109"

@@ -91,7 +91,7 @@
                   <constraintSpec ident="authority_check" scheme="schematron">
                      <constraint>
                         <sch:rule context="tei:authority">
-                           <sch:assert test="contains(.,'Institut d'Histoire de la Réformation (IHR), université de Genève')">The authority is "Institut d'Histoire de la Réformation (IHR), université de Genève"</sch:assert>
+                           <sch:assert test="contains(.,'Institut Histoire de la Réformation (IHR), université de Genève')">The authority is "Institut d'Histoire de la Réformation (IHR), université de Genève"</sch:assert>
                         </sch:rule>
                      </constraint>
                   </constraintSpec>
@@ -1066,6 +1066,8 @@
                            <valItem ident="DigitizationArtefactZone"/>
                            <valItem ident="MainZone-Sp"/>
                            <valItem ident="MainZone-Lg"/>
+                           <valItem ident="MainZone-ListItem"/>
+                           <valItem ident="MainZone-Other"/>
                           
                            
                         </valList>
@@ -1439,6 +1441,8 @@
                            <valItem ident="DigitizationArtefactZone"/>
                            <valItem ident="MainZone-Sp"/>
                            <valItem ident="MainZone-Lg"/>
+                           <valItem ident="MainZone-ListItem"/>
+                           <valItem ident="MainZone-Other"/>
                         </valList>
                      </attDef>
                   </attList>
