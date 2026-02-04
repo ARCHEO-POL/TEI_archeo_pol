@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="href="https://raw.githubusercontent.com/ARCHEO-POL/TEI_archeo_pol/refs/heads/main/out/archeo_pol.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="href="https://raw.githubusercontent.com/ARCHEO-POL/TEI_archeo_pol/refs/heads/main/out/archeo_pol.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/ARCHEO-POL/TEI_archeo_pol/refs/heads/main/out/archeo_pol.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/ARCHEO-POL/TEI_archeo_pol/refs/heads/main/out/archeo_pol.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="de_la_puissance_legitime_1581">
    <teiHeader>
       <fileDesc>
@@ -176,9 +176,9 @@
                   </surrogates>
                   <listBibl>
                      <bibl>
-                        <ref target="https://www.ustc.ac.uk/editions/84424">
+                        <ref target="https://www.ustc.ac.uk/editions/6639">
                            <orgName>USTC</orgName>
-                           <idno>84424</idno>
+                           <idno>6639</idno>
                         </ref>
                      </bibl>
                   </listBibl>
@@ -193,14 +193,9 @@
                et financé par le FNS : <ref target="https://data.snf.ch/grants/grant/219694/"/>.</p>
          </projectDesc>
          <editorialDecl>
-            <correction>
-               <p>Voir le guide de transcription du projet ARCHEOPOL : <ref target="AJOUTER LIEN "
-                  />. La segmentation a été produite manuellement et la transcription issue de l'OCR
-                  a été vérifiée.</p>
-            </correction>
             <normalization>
                <p>Pour les règles de normalisation, voir le lien suivant : <ref
-                     target="AJOUTER LIEN"/>. La normalisation s'est basée sur les règles de
+                  target="https://www.unige.ch/archeopol/ressources-numeriques"/>. La normalisation s'est basée sur les règles de
                   transcription semi-diplomatique. </p>
             </normalization>
          </editorialDecl>
@@ -12617,7 +12612,7 @@
          <zone xml:id="f00038_block_3" type="MarginTextZone-Notes" n="6" ulx="147.0" uly="934.0"
             lrx="313" lry="1054" points="313,934 313,1054 147,1054 147,934 "
             source="147.0,934.0,166.0,120.0/full/0/default.jpg" rotate="0">
-            <zone xml:id="f00038_eSc_line_8b88e1fa" type="" n="2" ulx="152" uly="937" lrx="306"
+            <zone xml:id="f00038_eSc_line_8b88e1fa" type="DefaultLine" n="2" ulx="152" uly="937" lrx="306"
                lry="1005" points="154,970 152,1005 304,1003 306,976 304,942 154,937 154,970 "
                source="152,937,154,68/full/0/default.jpg" rotate="0">
                <path n="2" xml:id="f00038_eSc_line_8b88e1fa_baseline_2" type="baseline"

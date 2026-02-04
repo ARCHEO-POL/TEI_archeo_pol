@@ -154,14 +154,14 @@
                         </availability>
                      </bibl>
                   </surrogates>
-                 <!-- <listBibl> 
+                  <listBibl> 
                      <bibl>
-                        <ref target="https://www.ustc.ac.uk/editions/9536">
+                        <ref target="https://www.ustc.ac.uk/editions/171">
                            <orgName>USTC</orgName>
-                           <idno>9536</idno>   Le site USTC est inaccessible - à modifier !!!!
+                           <idno>171</idno>  
                         </ref>
                      </bibl>
-                  </listBibl>-->
+                  </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
@@ -172,12 +172,8 @@
                         et financé par le FNS : <ref target="https://data.snf.ch/grants/grant/219694/"/>.</p>
          </projectDesc>
          <editorialDecl>
-            <correction>
-               <p>Voir le guide de transcription du projet ARCHEOPOL : <ref target="AJOUTER LIEN"/>. La segmentation a été produite manuellement 
-                            et la transcription issue de l'OCR a été vérifiée.</p> <!-- A compléter ?  -->
-            </correction>
             <normalization>
-               <p>Pour les règles de normalisation, voir le lien suivant : <ref target="AJOUTER LIEN"/>. La normalisation s'est basée sur les règles de transcription semi-diplomatique de l'école des Chartes. </p>
+               <p>Pour les règles de normalisation, voir le lien suivant : <ref target="https://www.unige.ch/archeopol/ressources-numeriques"/>. La normalisation s'est basée sur les règles de transcription semi-diplomatique de l'école des Chartes. </p>
             </normalization>
          </editorialDecl>
          <appInfo>

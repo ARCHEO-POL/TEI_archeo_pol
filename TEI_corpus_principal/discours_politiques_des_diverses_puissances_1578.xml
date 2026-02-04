@@ -163,12 +163,8 @@
                et financé par le FNS : <ref target="https://data.snf.ch/grants/grant/219694/"/>.</p>
          </projectDesc>
          <editorialDecl>
-            <correction>
-               <p>Voir le guide de transcription du projet ARCHEOPOL : <ref target="AJOUTER LIEN "/>. La segmentation a été produite manuellement 
-                  et la transcription issue de l'OCR a été vérifiée.</p>
-            </correction>
             <normalization>
-               <p>Pour les règles de normalisation, voir le lien suivant : <ref target="AJOUTER LIEN"/>. La normalisation s'est basée sur les règles de transcription semi-diplomatique. </p>
+               <p>Pour les règles de normalisation, voir le lien suivant : <ref target="https://www.unige.ch/archeopol/ressources-numeriques"/>. La normalisation s'est basée sur les règles de transcription semi-diplomatique. </p>
             </normalization>
          </editorialDecl>
          <appInfo>
@@ -56404,7 +56400,7 @@
                source="248.0,724.0,194.0,197.0/full/0/default.jpg"
                rotate="0">
             <zone xml:id="f066_eSc_line_8ef20dde"
-                  type=""
+               type="DefaultLine"
                   n="2"
                   ulx="260"
                   uly="839"
