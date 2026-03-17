@@ -212,7 +212,7 @@
       </profileDesc>
       <revisionDesc>
          <change when="2025-12-26" who="#AB">Création du fichier TEI P5.</change>
-         <change when="2026-02-03" who="#AB">Normalisation intermédiaire ou semi-diplomatique terminée.</change>
+        <!-- <change when="2026-01-25" who="#AB">Normalisation intermédiaire ou semi-diplomatique terminée.</change>-->
          <change when="2025-12-27" who="#AB">Révision des métadonnées.</change>
       </revisionDesc>
    </teiHeader>
@@ -32177,12 +32177,12 @@
             <lb corresp="#f00013_line_7_ligne_9"/>
             <choice>
                <orig>toute ſouuenãce de ſon pays, cela ne me ſem</orig>
-               <reg>toute souvenance de son pays, cela ne me sem</reg>
+               <reg>toute souvenance de son pays, cela ne me semble</reg>
             </choice>
             <lb corresp="#f00013_line_8_ligne_10"/>
             <choice>
                <orig>ble point digne d’vn hõme vertueux, ny bien</orig>
-               <reg>ble point digne d'un homme vertueux, n'y bien</reg>
+               <reg>point digne d'un homme vertueux, n'y bien</reg>
             </choice>
             <lb corresp="#f00013_line_9_ligne_11"/>
             <choice>
@@ -32846,12 +32846,12 @@
             <lb corresp="#f00017_line_16_ligne_18"/>
             <choice>
                <orig>lieres vertus. Cõbien qu’au demeurãt il ſem</orig>
-               <reg>vertus. Combien qu'au demeurant il sem</reg>
+               <reg>vertus. Combien qu'au demeurant il semble</reg>
             </choice>
             <lb corresp="#f00017_line_17_ligne_19"/>
             <choice>
                <orig>ble biẽ que ceſte trãquillité ne ſoit pas logee</orig>
-               <reg>ble bien que ceste tranquillité ne soit pas logee</reg>
+               <reg>bien que ceste tranquillité ne soit pas logee</reg>
             </choice>
             <lb corresp="#f00017_line_18_ligne_20"/>
             <choice>
@@ -33626,7 +33626,7 @@
                <lb corresp="#f00023_eSc_line_074d7c7b_ligne_2"/>
                <choice>
                   <orig>D</orig>
-                  <reg>D</reg>
+                  <reg>DE</reg>
                </choice>
             </hi>
          </ab>
@@ -33634,7 +33634,7 @@
             <lb corresp="#f00023_line_2_ligne_2"/>
             <choice>
                <orig>E l'eſtat de la Gaule, auãt qu’el¬</orig>
-               <reg>E l'estat de la Gaule, avant qu'elle</reg>
+               <reg>l'estat de la Gaule, avant qu'elle</reg>
             </choice>
             <lb corresp="#f00023_line_3_ligne_3"/>
             <choice>
@@ -37100,12 +37100,12 @@
             <lb corresp="#f00044_line_9_ligne_9"/>
             <choice>
                <orig>que la premiere choſe, en laquelle toutes na</orig>
-               <reg>que la premiere chose, en laquelle toutes na</reg>
+               <reg>que la premiere chose, en laquelle toutes nations</reg>
             </choice>
             <lb corresp="#f00044_line_10_ligne_10"/>
             <choice>
                <orig>tions ont cõſenty &amp; ſe ſont accordees, ç’a e¬</orig>
-               <reg>tions ont consenty &amp; se sont accordees, ç'a esté</reg>
+               <reg>ont consenty &amp; se sont accordees, ç'a esté</reg>
             </choice>
             <lb corresp="#f00044_line_11_ligne_11"/>
             <choice>
@@ -40098,12 +40098,12 @@
             <lb corresp="#f00061_line_27_ligne_27"/>
             <choice>
                <orig>Otton Friſing. Chro.4. chap, pen. Il me ſem</orig>
-               <reg>Otton Frising. Chro.4. chap, pen. Il me sem</reg>
+               <reg>Otton Frising. Chro.4. chap, pen. Il me semble</reg>
             </choice>
             <lb corresp="#f00061_line_28_ligne_28"/>
             <choice>
                <orig>ble bien, dit-il, que les François, qui habi¬</orig>
-               <reg>ble bien, dit-il, que les François, qui habitent</reg>
+               <reg>bien, dit-il, que les François, qui habitent</reg>
             </choice>
             <lb corresp="#f00061_line_29_ligne_29"/>
             <choice>
@@ -40684,7 +40684,7 @@
             <lb corresp="#f00065_line_8_ligne_8"/>
             <choice>
                <orig>qui la baignẽt tout à l’entour, &amp; la mer, qui</orig>
-               <reg>qui la baignẽt tout à l'entour, &amp; la mer, qui</reg>
+               <reg>qui la baignent tout à l'entour, &amp; la mer, qui</reg>
             </choice>
             <lb corresp="#f00065_line_9_ligne_9"/>
             <choice>
@@ -51506,7 +51506,7 @@
             <lb corresp="#f00129_line_4_ligne_4"/>
             <choice>
                <orig>tention qu’eurẽt iadis les Lacedæmoniens,</orig>
-               <reg>qu'eurẽt jadis les Lacedæmoniens,</reg>
+               <reg>qu'eurent jadis les Lacedæmoniens,</reg>
             </choice>
             <lb corresp="#f00129_line_5_ligne_5"/>
             <choice>
@@ -51762,12 +51762,12 @@
             <lb corresp="#f00130_line_21_ligne_21"/>
             <choice>
                <orig>apres toutes fois &amp; quantes que bon luy ſem</orig>
-               <reg>apres toutes fois &amp; quant es que bon luy sem</reg>
+               <reg>apres toutes fois &amp; quant es que bon luy semble</reg>
             </choice>
             <lb corresp="#f00130_line_22_ligne_22"/>
             <choice>
                <orig>ble &amp;que l’occaſiõ s’en offre. Voila ce qu’en</orig>
-               <reg>ble &amp;que l'occasion s'en offre. Voila ce qu'en</reg>
+               <reg>&amp;que l'occasion s'en offre. Voila ce qu'en</reg>
             </choice>
             <lb corresp="#f00130_line_23_ligne_23"/>
             <choice>
@@ -53546,12 +53546,12 @@
             <lb corresp="#f00141_line_3_ligne_3"/>
             <choice>
                <orig>ges euſſent à adminiſtrer droite iuſtice à cha</orig>
-               <reg>eussent à administrer droite justice à cha</reg>
+               <reg>eussent à administrer droite justice à chacun,</reg>
             </choice>
             <lb corresp="#f00141_line_4_ligne_4"/>
             <choice>
                <orig>cun, &amp; n’achetaſſent point les offices, &amp;c.</orig>
-               <reg>cun, &amp; n'achetassent point les offices, &amp;c.</reg>
+               <reg>&amp; n'achetassent point les offices, &amp;c.</reg>
             </choice>
             <lb corresp="#f00141_line_5_ligne_5"/>
             <choice>
@@ -53913,12 +53913,12 @@
             <lb corresp="#f00143_line_8_ligne_8"/>
             <choice>
                <orig>neralement s’aſſemblaſt au village de Theo</orig>
-               <reg>s'assemblast au village de Theo</reg>
+               <reg>s'assemblast au village de Theodon.</reg>
             </choice>
             <lb corresp="#f00143_line_9_ligne_9"/>
             <choice>
                <orig>don. Et vn peu plus auant: Mais quelque</orig>
-               <reg>don. Et un peu plus avant: Mais quelque</reg>
+               <reg>Et un peu plus avant: Mais quelque</reg>
             </choice>
             <lb corresp="#f00143_line_10_ligne_10"/>
             <choice>
@@ -55870,12 +55870,12 @@
             <lb corresp="#f00154_line_27_ligne_27"/>
             <choice>
                <orig>me cõmandoit, cõme ſi ce fuſt de ſon autori</orig>
-               <reg>commandoit, comme si ce fust de son autori</reg>
+               <reg>commandoit, comme si ce fust de son autorité:</reg>
             </choice>
             <lb corresp="#f00154_line_28_ligne_28"/>
             <choice>
                <orig>té: &amp; au demeurãt, n’auoit riẽ en ſa puiſſance</orig>
-               <reg>té: &amp; au demeurant, n'avoit rien en sa puissance</reg>
+               <reg>&amp; au demeurant, n'avoit rien en sa puissance</reg>
             </choice>
             <lb corresp="#f00154_line_29_ligne_29"/>
             <choice>
@@ -56275,7 +56275,7 @@
                <lb corresp="#f00157_line_5_ligne_5"/>
                <choice>
                   <orig>CHAP. XIII.</orig>
-                  <reg>CHAP. XIII.</reg>
+                  <reg>CHAP. XIII.I</reg>
                </choice>
             </hi>
          </ab>
@@ -56283,7 +56283,7 @@
             <lb corresp="#f00157_eSc_line_fbb7fa1f_ligne_2"/>
             <choice>
                <orig>I</orig>
-               <reg>I</reg>
+               <reg></reg>
             </choice>
          </ab>
          <ab corresp="#f00157_block_1" type="MainZone-P">
@@ -61273,7 +61273,7 @@
                <lb corresp="#f00186_line_19_ligne_6"/>
                <choice>
                   <orig>CHᗅP. XVI.</orig>
-                  <reg>CHAP. XVI.</reg>
+                  <reg>CHAP. XVI.I</reg>
                </choice>
             </hi>
          </ab>
@@ -61282,7 +61282,7 @@
                <lb corresp="#f00186_line_20_ligne_2"/>
                <choice>
                   <orig>I</orig>
-                  <reg>I</reg>
+                  <reg></reg>
                </choice>
             </hi>
          </ab>
@@ -62127,7 +62127,7 @@
                <lb corresp="#f00191_line_15_ligne_2"/>
                <choice>
                   <orig>CHAP. XVII.</orig>
-                  <reg>CHAP. XVII.</reg>
+                  <reg>XVII.</reg>
                </choice>
             </hi>
             <lb corresp="#f00191_line_16_ligne_3"/>
@@ -66927,7 +66927,7 @@
             <lb corresp="#f00219_line_23_ligne_23"/>
             <choice>
                <orig>core riẽ au pris de ce qu’elle luy ſit vn iour.</orig>
-               <reg>rien au pris de ce qu'elle luy sit un jour.</reg>
+               <reg>rien au pris de ce qu'elle luy fit un jour.</reg>
             </choice>
             <lb corresp="#f00219_line_24_ligne_24"/>
             <choice>
@@ -69906,12 +69906,12 @@
             <lb corresp="#f00237_line_6_ligne_6"/>
             <choice>
                <orig>voir par ſes ordonnances &amp; nommémẽt du</orig>
-               <reg>voir par ses ordonnances &amp; nommément du</reg>
+               <reg>voir par ses ordonnances &amp; nommément duch.</reg>
             </choice>
             <lb corresp="#f00237_line_7_ligne_7"/>
             <choice>
                <orig>ch.74. du li.4 de la loy Frãcique, où eſt ceſt</orig>
-               <reg>ch.74. du li.4 de la loy francique, où est cest</reg>
+               <reg>74. du li.4 de la loy francique, où est cest</reg>
             </choice>
             <lb corresp="#f00237_line_8_ligne_8"/>
             <choice>
