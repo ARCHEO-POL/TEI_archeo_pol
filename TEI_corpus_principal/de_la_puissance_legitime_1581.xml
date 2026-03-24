@@ -79,7 +79,6 @@
                </persName>
             </respStmt>
          </titleStmt>
-         <extent/>
          <publicationStmt>
             <publisher>Projet ARCHEO-POL</publisher>
             <authority>Institut d'Histoire de la Réformation (IHR), Université de Genève</authority>
@@ -178396,6 +178395,96 @@
                </choice>
             </hi>
          </ab>
+         <ab corresp="#f00001_block_3" type="MainZone-ListItem">
+            <lb corresp="#f00001_line_2_ligne_2"/>
+            <choice>
+               <orig>I. Aſauoir ſi les ſuiets ſont tenus &amp; doyuent</orig>
+               <reg>I. Aſauoir ſi les ſuiets ſont tenus &amp; doyuent</reg>
+            </choice>
+            <lb corresp="#f00001_line_3_ligne_3"/>
+            <choice>
+               <orig>obeir aux Princes, s’ils commandent quel¬</orig>
+               <reg>obeir aux Princes, s’ils commandent quel¬</reg>
+            </choice>
+            <lb corresp="#f00001_line_4_ligne_4"/>
+            <choice>
+               <orig>que choſe contre la Loy de Dieu.</orig>
+               <reg>que choſe contre la Loy de Dieu.</reg>
+            </choice>
+         </ab>
+         <ab corresp="#f00001_block_1" type="MainZone-ListItem">
+            <lb corresp="#f00001_line_5_ligne_2"/>
+            <choice>
+               <orig>II. S’il eſt loiſible de reſiſter à vn Prince qui</orig>
+               <reg>II. S’il eſt loiſible de reſiſter à vn Prince qui</reg>
+            </choice>
+            <lb corresp="#f00001_line_6_ligne_3"/>
+            <choice>
+               <orig>veut enfraindre la Loy de Dieu, ou qui rui¬</orig>
+               <reg>veut enfraindre la Loy de Dieu, ou qui rui¬</reg>
+            </choice>
+            <lb corresp="#f00001_line_7_ligne_4"/>
+            <choice>
+               <orig>ne l’Egliſe. Item à qui, comment, &amp; iuſques</orig>
+               <reg>ne l’Egliſe. Item à qui, comment, &amp; iuſques</reg>
+            </choice>
+            <lb corresp="#f00001_line_8_ligne_5"/>
+            <choice>
+               <orig>où cela eſt loiſible.</orig>
+               <reg>où cela eſt loiſible.</reg>
+            </choice>
+         </ab>
+         <ab corresp="#f00001_block_0" type="MainZone-ListItem">
+            <lb corresp="#f00001_line_9_ligne_2"/>
+            <choice>
+               <orig>III. S’il eſt loiſible de reſiſter à vn Prince qui</orig>
+               <reg>III. S’il eſt loiſible de reſiſter à vn Prince qui</reg>
+            </choice>
+            <lb corresp="#f00001_line_10_ligne_3"/>
+            <choice>
+               <orig>opprime ou ruine vn eſtat public, &amp; iuſques</orig>
+               <reg>opprime ou ruine vn eſtat public, &amp; iuſques</reg>
+            </choice>
+            <lb corresp="#f00001_line_11_ligne_4"/>
+            <choice>
+               <orig>où ceſte reſiſtance s’eſtẽd. Item à qui, com¬</orig>
+               <reg>où ceſte reſiſtance s’eſtẽd. Item à qui, com¬</reg>
+            </choice>
+            <lb corresp="#f00001_line_12_ligne_5"/>
+            <choice>
+               <orig>ment, &amp; de quel droit cela eſt permis.</orig>
+               <reg>ment, &amp; de quel droit cela eſt permis.</reg>
+            </choice>
+         </ab>
+         <ab corresp="#f00001_block_2" type="MainZone-ListItem">
+            <lb corresp="#f00001_line_13_ligne_2"/>
+            <choice>
+               <orig>IIII. Si les Princes voiſins peuuent ou ſont</orig>
+               <reg>IIII. Si les Princes voiſins peuuent ou ſont</reg>
+            </choice>
+            <lb corresp="#f00001_line_14_ligne_3"/>
+            <choice>
+               <orig>tenus de droit dõner ſecours aux ſuiets des</orig>
+               <reg>tenus de droit dõner ſecours aux ſuiets des</reg>
+            </choice>
+            <lb corresp="#f00001_line_15_ligne_4"/>
+            <choice>
+               <orig>autres Princes, affligez à cauſe de la vraye</orig>
+               <reg>autres Princes, affligez à cauſe de la vraye</reg>
+            </choice>
+            <lb corresp="#f00001_line_16_ligne_5"/>
+            <choice>
+               <orig>Religion, ou opprimez par tyrannie ma¬</orig>
+               <reg>Religion, ou opprimez par tyrannie ma¬</reg>
+            </choice>
+            <lb corresp="#f00001_line_17_ligne_6"/>
+            <choice>
+               <orig>nifeſte.</orig>
+               <reg>nifeſte.</reg>
+            </choice>
+         </ab>
+         <note corresp="#f00001_eSc_textblock_74c97095"
+               type="MarginTextZone-ManuscriptAddendum"/>
          <pb corresp="f00002"/>
          <fw corresp="#f00002_eSc_textblock_f4c9d1d7" type="NumberingZone">
             <lb corresp="#f00002_eSc_line_de98d33a_ligne_2"/>
@@ -181233,6 +181322,8 @@
                <reg>Iob 12.</reg>
             </choice>
          </note>
+         <note corresp="#f00018_eSc_textblock_d93ec832"
+               type="MarginTextZone-ManuscriptAddendum"/>
          <pb corresp="f00019"/>
          <fw corresp="#f00019_block_0" type="NumberingZone">
             <lb corresp="#f00019_line_0_ligne_2"/>
@@ -182565,6 +182656,8 @@
                <reg>2.Rois 23.</reg>
             </choice>
          </note>
+         <note corresp="#f00024_eSc_textblock_d2a403a4"
+               type="MarginTextZone-ManuscriptAddendum"/>
          <pb corresp="f00025"/>
          <fw corresp="#f00025_block_0" type="NumberingZone">
             <lb corresp="#f00025_line_4_ligne_2"/>
@@ -183481,6 +183574,8 @@
                <reg>33.</reg>
             </choice>
          </note>
+         <note corresp="#f00028_eSc_textblock_f755f029"
+               type="MarginTextZone-ManuscriptAddendum"/>
          <pb corresp="f00029"/>
          <fw corresp="#f00029_eSc_textblock_fa46fec7" type="NumberingZone">
             <lb corresp="#f00029_eSc_line_6fde446e_ligne_2"/>
@@ -184478,6 +184573,8 @@
                <reg>11.</reg>
             </choice>
          </note>
+         <note corresp="#f00033_eSc_textblock_b47bf6dd"
+               type="MarginTextZone-ManuscriptAddendum"/>
          <pb corresp="f00034"/>
          <fw corresp="#f00034_eSc_textblock_f4b60be5" type="NumberingZone">
             <lb corresp="#f00034_eSc_line_acf0d99a_ligne_2"/>
@@ -184912,6 +185009,8 @@
                <reg>6.12,13.</reg>
             </choice>
          </note>
+         <note corresp="#f00035_eSc_textblock_1ef00723"
+               type="MarginTextZone-ManuscriptAddendum"/>
          <pb corresp="f00036"/>
          <fw corresp="#f00036_eSc_textblock_e44caa02" type="NumberingZone">
             <lb corresp="#f00036_eSc_line_b5412316_ligne_2"/>
@@ -186262,6 +186361,8 @@
                <reg>Rom.13.1.</reg>
             </choice>
          </note>
+         <note corresp="#f00041_eSc_textblock_2a088444"
+               type="MarginTextZone-ManuscriptAddendum"/>
          <pb corresp="f00042"/>
          <fw corresp="#f00042_block_1" type="NumberingZone">
             <lb corresp="#f00042_line_1_ligne_2"/>
@@ -232283,6 +232384,11 @@
          <pb corresp="f00264"/>
          <pb corresp="f00265"/>
          <pb corresp="f00266"/>
+         <note corresp="#f00266_block_1" type="MarginTextZone-ManuscriptAddendum"/>
+         <note corresp="#f00266_eSc_textblock_0cfbd61e"
+               type="MarginTextZone-ManuscriptAddendum"/>
+         <note corresp="#f00266_eSc_textblock_98c9dc53"
+               type="MarginTextZone-ManuscriptAddendum"/>
          <pb corresp="f00267"/>
          <pb corresp="f00268"/>
          <pb corresp="f00269"/>

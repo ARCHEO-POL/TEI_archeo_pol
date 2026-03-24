@@ -127396,7 +127396,33 @@
          <pb corresp="f00001"/>
          <pb corresp="f00002"/>
          <pb corresp="f00003"/>
+         <note corresp="#f00003_eSc_textblock_a0ae9c41"
+               type="MarginTextZone-ManuscriptAddendum">
+            <lb corresp="#f00003_eSc_line_a1acb4c2_ligne_2"/>
+            <choice>
+               <orig>22/60</orig>
+               <reg>22/60</reg>
+            </choice>
+         </note>
          <pb corresp="f00004"/>
+         <note corresp="#f00004_eSc_textblock_043bb16c"
+               type="MarginTextZone-ManuscriptAddendum">
+            <lb corresp="#f00004_eSc_line_bda3f299_ligne_2"/>
+            <choice>
+               <orig>achat Gongy</orig>
+               <reg>achat Gongy</reg>
+            </choice>
+            <lb corresp="#f00004_eSc_line_95f81025_ligne_3"/>
+            <choice>
+               <orig>Paris</orig>
+               <reg>Paris</reg>
+            </choice>
+            <lb corresp="#f00004_eSc_line_c9bebb0f_ligne_4"/>
+            <choice>
+               <orig>1916</orig>
+               <reg>1916</reg>
+            </choice>
+         </note>
          <pb corresp="f00005"/>
          <pb corresp="f00006"/>
          <pb corresp="f00007"/>
@@ -127469,6 +127495,8 @@
             </hi>
          </ab>
          <pb corresp="f00011"/>
+         <note corresp="#f00011_eSc_textblock_6a716a44"
+               type="MarginTextZone-ManuscriptAddendum"/>
          <pb corresp="f00012"/>
          <ab corresp="#f00012_eSc_textblock_67b46b2e" type="MainZone-Head">
             <hi>
@@ -165541,6 +165569,243 @@
                </choice>
             </hi>
          </ab>
+         <ab corresp="#f00238_block_1" type="TitlePageZone-Index">
+            <lb corresp="#f00238_line_3_ligne_2"/>
+            <choice>
+               <orig>A</orig>
+               <reg>A</reg>
+            </choice>
+            <lb corresp="#f00238_line_4_ligne_3"/>
+            <choice>
+               <orig>Eduiens appellez freres des Ro¬</orig>
+               <reg>Eduiens appellez freres des Ro¬</reg>
+            </choice>
+            <lb corresp="#f00238_line_5_ligne_4"/>
+            <choice>
+               <orig>mains.</orig>
+               <reg>mains.</reg>
+            </choice>
+            <lb corresp="#f00238_line_6_ligne_5"/>
+            <choice>
+               <orig>7.</orig>
+               <reg>7.</reg>
+            </choice>
+            <lb corresp="#f00238_line_7_ligne_6"/>
+            <choice>
+               <orig>Alemaigne comment gouuer¬</orig>
+               <reg>Alemaigne comment gouuer¬</reg>
+            </choice>
+            <lb corresp="#f00238_line_8_ligne_7"/>
+            <choice>
+               <orig>nee.</orig>
+               <reg>nee.</reg>
+            </choice>
+            <lb corresp="#f00238_line_9_ligne_8"/>
+            <choice>
+               <orig>103.</orig>
+               <reg>103.</reg>
+            </choice>
+            <lb corresp="#f00238_line_10_ligne_9"/>
+            <choice>
+               <orig>Angleterre comment gouuernee.</orig>
+               <reg>Angleterre comment gouuernee.</reg>
+            </choice>
+            <lb corresp="#f00238_eSc_line_e7083e04_ligne_10"/>
+            <choice>
+               <orig>104.</orig>
+               <reg>104.</reg>
+            </choice>
+            <lb corresp="#f00238_line_11_ligne_11"/>
+            <choice>
+               <orig>Parlement d’Angleterre.</orig>
+               <reg>Parlement d’Angleterre.</reg>
+            </choice>
+            <lb corresp="#f00238_line_12_ligne_12"/>
+            <choice>
+               <orig>105.</orig>
+               <reg>105.</reg>
+            </choice>
+            <lb corresp="#f00238_line_13_ligne_13"/>
+            <choice>
+               <orig>Anſelme Eueſque traiſtre à ſon Roy.</orig>
+               <reg>Anſelme Eueſque traiſtre à ſon Roy.</reg>
+            </choice>
+            <lb corresp="#f00238_eSc_line_02511204_ligne_14"/>
+            <choice>
+               <orig>164</orig>
+               <reg>164</reg>
+            </choice>
+            <lb corresp="#f00238_line_14_ligne_15"/>
+            <choice>
+               <orig>Auuergnats anciens puiſſans.</orig>
+               <reg>Auuergnats anciens puiſſans.</reg>
+            </choice>
+            <lb corresp="#f00238_line_16_ligne_16"/>
+            <choice>
+               <orig>8.</orig>
+               <reg>8.</reg>
+            </choice>
+            <lb corresp="#f00238_line_15_ligne_17"/>
+            <choice>
+               <orig>B</orig>
+               <reg>B</reg>
+            </choice>
+            <lb corresp="#f00238_line_17_ligne_18"/>
+            <choice>
+               <orig>Batauiens voiſins des anciens François.</orig>
+               <reg>Batauiens voiſins des anciens François.</reg>
+            </choice>
+            <lb corresp="#f00238_eSc_line_c281bcfa_ligne_19"/>
+            <choice>
+               <orig>38.</orig>
+               <reg>38.</reg>
+            </choice>
+            <lb corresp="#f00238_line_18_ligne_20"/>
+            <choice>
+               <orig>guerre ſurnommee Bien public</orig>
+               <reg>guerre ſurnommee Bien public</reg>
+            </choice>
+            <lb corresp="#f00238_line_26_ligne_21"/>
+            <choice>
+               <orig>173.</orig>
+               <reg>173.</reg>
+            </choice>
+            <lb corresp="#f00238_line_19_ligne_22"/>
+            <choice>
+               <orig>Blanche Royne Regente.</orig>
+               <reg>Blanche Royne Regente.</reg>
+            </choice>
+            <lb corresp="#f00238_line_27_ligne_23"/>
+            <choice>
+               <orig>191.</orig>
+               <reg>191.</reg>
+            </choice>
+            <lb corresp="#f00238_line_20_ligne_24"/>
+            <choice>
+               <orig>Bodilon occit vn Roy tyran.</orig>
+               <reg>Bodilon occit vn Roy tyran.</reg>
+            </choice>
+            <lb corresp="#f00238_line_28_ligne_25"/>
+            <choice>
+               <orig>68.</orig>
+               <reg>68.</reg>
+            </choice>
+            <lb corresp="#f00238_line_21_ligne_26"/>
+            <choice>
+               <orig>Brunechilde Royne Regente</orig>
+               <reg>Brunechilde Royne Regente</reg>
+            </choice>
+            <lb corresp="#f00238_line_29_ligne_27"/>
+            <choice>
+               <orig>186.</orig>
+               <reg>186.</reg>
+            </choice>
+            <lb corresp="#f00238_line_22_ligne_28"/>
+            <choice>
+               <orig>Brunechilde executee.</orig>
+               <reg>Brunechilde executee.</reg>
+            </choice>
+            <lb corresp="#f00238_line_30_ligne_29"/>
+            <choice>
+               <orig>188.</orig>
+               <reg>188.</reg>
+            </choice>
+            <lb corresp="#f00238_eSc_line_e1aae059_ligne_30"/>
+            <choice>
+               <orig>C</orig>
+               <reg>C</reg>
+            </choice>
+            <lb corresp="#f00238_line_23_ligne_31"/>
+            <choice>
+               <orig>Cheuelure, priuilege des Roys</orig>
+               <reg>Cheuelure, priuilege des Roys</reg>
+            </choice>
+            <lb corresp="#f00238_line_31_ligne_32"/>
+            <choice>
+               <orig>6.87.</orig>
+               <reg>6.87.</reg>
+            </choice>
+            <lb corresp="#f00238_line_24_ligne_33"/>
+            <choice>
+               <orig>Charlemaigne bon Roy.</orig>
+               <reg>Charlemaigne bon Roy.</reg>
+            </choice>
+            <lb corresp="#f00238_line_32_ligne_34"/>
+            <choice>
+               <orig>153.</orig>
+               <reg>153.</reg>
+            </choice>
+            <lb corresp="#f00238_line_25_ligne_35"/>
+            <choice>
+               <orig>Charles le Simple Roy demis.</orig>
+               <reg>Charles le Simple Roy demis.</reg>
+            </choice>
+            <lb corresp="#f00238_line_33_ligne_36"/>
+            <choice>
+               <orig>71.</orig>
+               <reg>71.</reg>
+            </choice>
+            <lb corresp="#f00238_line_34_ligne_37"/>
+            <choice>
+               <orig>Charles le Gros demis par François.</orig>
+               <reg>Charles le Gros demis par François.</reg>
+            </choice>
+            <lb corresp="#f00238_eSc_line_6ca0d319_ligne_38"/>
+            <choice>
+               <orig>70.</orig>
+               <reg>70.</reg>
+            </choice>
+            <lb corresp="#f00238_line_35_ligne_39"/>
+            <choice>
+               <orig>Childeric I. Roy de France demis.</orig>
+               <reg>Childeric I. Roy de France demis.</reg>
+            </choice>
+            <lb corresp="#f00238_line_38_ligne_40"/>
+            <choice>
+               <orig>67.</orig>
+               <reg>67.</reg>
+            </choice>
+            <lb corresp="#f00238_line_36_ligne_41"/>
+            <choice>
+               <orig>Crotilde Royne Regente.</orig>
+               <reg>Crotilde Royne Regente.</reg>
+            </choice>
+            <lb corresp="#f00238_line_39_ligne_42"/>
+            <choice>
+               <orig>184.</orig>
+               <reg>184.</reg>
+            </choice>
+            <lb corresp="#f00238_line_37_ligne_43"/>
+            <choice>
+               <orig>Coneſtable.</orig>
+               <reg>Coneſtable.</reg>
+            </choice>
+            <lb corresp="#f00238_line_40_ligne_44"/>
+            <choice>
+               <orig>141.</orig>
+               <reg>141.</reg>
+            </choice>
+            <lb corresp="#f00238_line_41_ligne_45"/>
+            <choice>
+               <orig>Comines contre les flateurs de cour.</orig>
+               <reg>Comines contre les flateurs de cour.</reg>
+            </choice>
+            <lb corresp="#f00238_eSc_line_d6dfca14_ligne_46"/>
+            <choice>
+               <orig>180.</orig>
+               <reg>180.</reg>
+            </choice>
+            <lb corresp="#f00238_line_42_ligne_47"/>
+            <choice>
+               <orig>Conſeillers du Roy &amp; du Royaume diuers.</orig>
+               <reg>Conſeillers du Roy &amp; du Royaume diuers.</reg>
+            </choice>
+            <lb corresp="#f00238_line_43_ligne_48"/>
+            <choice>
+               <orig>101.</orig>
+               <reg>101.</reg>
+            </choice>
+         </ab>
          <ab corresp="#f00238_eSc_textblock_fd715baf" type="DropCapitalZone">
             <hi>
                <lb corresp="#f00238_line_2_ligne_2"/>
@@ -165550,6 +165815,14 @@
                </choice>
             </hi>
          </ab>
+         <note corresp="#f00238_eSc_textblock_3bb8fcf5"
+               type="MarginTextZone-ManuscriptAddendum">
+            <lb corresp="#f00238_eSc_line_ce17b18d_ligne_2"/>
+            <choice>
+               <orig>273</orig>
+               <reg>273</reg>
+            </choice>
+         </note>
          <fw corresp="#f00238_eSc_textblock_29f3176c" type="QuireMarksZone">
             <lb corresp="#f00238_eSc_line_1818fab8_ligne_2"/>
             <choice>
@@ -165567,6 +165840,213 @@
                </choice>
             </hi>
          </fw>
+         <ab corresp="#f00239_block_0" type="TitlePageZone-Index">
+            <lb corresp="#f00239_eSc_line_660ce230_ligne_2"/>
+            <choice>
+               <orig>D</orig>
+               <reg>D</reg>
+            </choice>
+            <lb corresp="#f00239_line_1_ligne_3"/>
+            <choice>
+               <orig>Deuteria Royne mere cruelle.</orig>
+               <reg>Deuteria Royne mere cruelle.</reg>
+            </choice>
+            <lb corresp="#f00239_line_4_ligne_4"/>
+            <choice>
+               <orig>110.</orig>
+               <reg>110.</reg>
+            </choice>
+            <lb corresp="#f00239_line_2_ligne_5"/>
+            <choice>
+               <orig>Druydes n’vſoyent d’eſcriture.</orig>
+               <reg>Druydes n’vſoyent d’eſcriture.</reg>
+            </choice>
+            <lb corresp="#f00239_eSc_line_efd428a0_ligne_6"/>
+            <choice>
+               <orig>E</orig>
+               <reg>E</reg>
+            </choice>
+            <lb corresp="#f00239_line_5_ligne_7"/>
+            <choice>
+               <orig>15.</orig>
+               <reg>15.</reg>
+            </choice>
+            <lb corresp="#f00239_line_3_ligne_8"/>
+            <choice>
+               <orig>Ephores contrerolleurs des Roys.</orig>
+               <reg>Ephores contrerolleurs des Roys.</reg>
+            </choice>
+            <lb corresp="#f00239_line_7_ligne_9"/>
+            <choice>
+               <orig>Eſtats de France combien continuez. 178.</orig>
+               <reg>Eſtats de France combien continuez. 178.</reg>
+            </choice>
+            <lb corresp="#f00239_line_6_ligne_10"/>
+            <choice>
+               <orig>104.</orig>
+               <reg>104.</reg>
+            </choice>
+            <lb corresp="#f00239_line_8_ligne_11"/>
+            <choice>
+               <orig>autorité de l’aſſemblee des Eſtats. 167.172.</orig>
+               <reg>autorité de l’aſſemblee des Eſtats. 167.172.</reg>
+            </choice>
+            <lb corresp="#f00239_eSc_line_6cca14f3_ligne_12"/>
+            <choice>
+               <orig>F</orig>
+               <reg>F</reg>
+            </choice>
+            <lb corresp="#f00239_line_9_ligne_13"/>
+            <choice>
+               <orig>Franc &amp; Franchiſe que c’eſt.</orig>
+               <reg>Franc &amp; Franchiſe que c’eſt.</reg>
+            </choice>
+            <lb corresp="#f00239_line_10_ligne_14"/>
+            <choice>
+               <orig>47.</orig>
+               <reg>47.</reg>
+            </choice>
+            <lb corresp="#f00239_line_11_ligne_15"/>
+            <choice>
+               <orig>François ne veulent eſtre ſuiets aux femmes</orig>
+               <reg>François ne veulent eſtre ſuiets aux femmes</reg>
+            </choice>
+            <lb corresp="#f00239_line_12_ligne_16"/>
+            <choice>
+               <orig>189.191.</orig>
+               <reg>189.191.</reg>
+            </choice>
+            <lb corresp="#f00239_line_13_ligne_17"/>
+            <choice>
+               <orig>Iangue Françoiſe empruntee.</orig>
+               <reg>Iangue Françoiſe empruntee.</reg>
+            </choice>
+            <lb corresp="#f00239_line_15_ligne_18"/>
+            <choice>
+               <orig>François où habiterent ancięnement. 38.</orig>
+               <reg>François où habiterent ancięnement. 38.</reg>
+            </choice>
+            <lb corresp="#f00239_line_14_ligne_19"/>
+            <choice>
+               <orig>11.</orig>
+               <reg>11.</reg>
+            </choice>
+            <lb corresp="#f00239_line_16_ligne_20"/>
+            <choice>
+               <orig>Fredegonde Royne Regente.</orig>
+               <reg>Fredegonde Royne Regente.</reg>
+            </choice>
+            <lb corresp="#f00239_eSc_line_8304a1ae_ligne_21"/>
+            <choice>
+               <orig>G</orig>
+               <reg>G</reg>
+            </choice>
+            <lb corresp="#f00239_line_17_ligne_22"/>
+            <choice>
+               <orig>186.</orig>
+               <reg>186.</reg>
+            </choice>
+            <lb corresp="#f00239_line_18_ligne_23"/>
+            <choice>
+               <orig>Gaule heureuſe auant les Parlemens. 209.</orig>
+               <reg>Gaule heureuſe auant les Parlemens. 209.</reg>
+            </choice>
+            <lb corresp="#f00239_line_19_ligne_24"/>
+            <choice>
+               <orig>Gaulois redoutables aux Romains. 24.</orig>
+               <reg>Gaulois redoutables aux Romains. 24.</reg>
+            </choice>
+            <lb corresp="#f00239_line_20_ligne_25"/>
+            <choice>
+               <orig>Gaule anciene diuiſee en citez.</orig>
+               <reg>Gaule anciene diuiſee en citez.</reg>
+            </choice>
+            <lb corresp="#f00239_line_21_ligne_26"/>
+            <choice>
+               <orig>Gaule comment adminiſtree.</orig>
+               <reg>Gaule comment adminiſtree.</reg>
+            </choice>
+            <lb corresp="#f00239_line_22_ligne_27"/>
+            <choice>
+               <orig>2.</orig>
+               <reg>2.</reg>
+            </choice>
+            <lb corresp="#f00239_eSc_line_155e2510_ligne_28"/>
+            <choice>
+               <orig>H</orig>
+               <reg>H</reg>
+            </choice>
+            <lb corresp="#f00239_line_23_ligne_29"/>
+            <choice>
+               <orig>456.</orig>
+               <reg>456.</reg>
+            </choice>
+            <lb corresp="#f00239_line_24_ligne_30"/>
+            <choice>
+               <orig>Heſpagnols vertueux à brider leurs Roys.</orig>
+               <reg>Heſpagnols vertueux à brider leurs Roys.</reg>
+            </choice>
+            <lb corresp="#f00239_line_25_ligne_31"/>
+            <choice>
+               <orig>106.</orig>
+               <reg>106.</reg>
+            </choice>
+            <lb corresp="#f00239_line_26_ligne_32"/>
+            <choice>
+               <orig>Hugues Capet vſurpateur du Royaume de</orig>
+               <reg>Hugues Capet vſurpateur du Royaume de</reg>
+            </choice>
+            <lb corresp="#f00239_line_27_ligne_33"/>
+            <choice>
+               <orig>France.</orig>
+               <reg>France.</reg>
+            </choice>
+            <lb corresp="#f00239_line_31_ligne_34"/>
+            <choice>
+               <orig>164.</orig>
+               <reg>164.</reg>
+            </choice>
+            <lb corresp="#f00239_line_28_ligne_35"/>
+            <choice>
+               <orig>Iſabel Royne Regente.</orig>
+               <reg>Iſabel Royne Regente.</reg>
+            </choice>
+            <lb corresp="#f00239_eSc_line_4ca42b1a_ligne_36"/>
+            <choice>
+               <orig>I</orig>
+               <reg>I</reg>
+            </choice>
+            <lb corresp="#f00239_eSc_line_78e615b1_ligne_37"/>
+            <choice>
+               <orig>191.</orig>
+               <reg>191.</reg>
+            </choice>
+            <lb corresp="#f00239_line_29_ligne_38"/>
+            <choice>
+               <orig>Iudith Royne mere &amp; Regente.</orig>
+               <reg>Iudith Royne mere &amp; Regente.</reg>
+            </choice>
+            <lb corresp="#f00239_line_32_ligne_39"/>
+            <choice>
+               <orig>190.</orig>
+               <reg>190.</reg>
+            </choice>
+            <lb corresp="#f00239_line_30_ligne_40"/>
+            <choice>
+               <orig>L</orig>
+               <reg>L</reg>
+            </choice>
+            <lb corresp="#f00239_line_33_ligne_41"/>
+            <choice>
+               <orig>Lacedæmoniens &amp; la forme de leur gou¬</orig>
+               <reg>Lacedæmoniens &amp; la forme de leur gou¬</reg>
+            </choice>
+            <lb corresp="#f00239_line_34_ligne_42"/>
+            <choice>
+               <orig>uerne¬</orig>
+               <reg>uerne¬</reg>
+            </choice>
+         </ab>
          <pb corresp="f00240"/>
          <fw corresp="#f00240_eSc_textblock_7d12c192" type="RunningTitleZone">
             <lb corresp="#f00240_line_0_ligne_2"/>
@@ -165575,6 +166055,255 @@
                <reg>TABLE.</reg>
             </choice>
          </fw>
+         <ab corresp="#f00240_block_1" type="TitlePageZone-Index">
+            <lb corresp="#f00240_line_1_ligne_2"/>
+            <choice>
+               <orig>uernement.</orig>
+               <reg>uernement.</reg>
+            </choice>
+            <lb corresp="#f00240_line_2_ligne_3"/>
+            <choice>
+               <orig>104.</orig>
+               <reg>104.</reg>
+            </choice>
+            <lb corresp="#f00240_line_3_ligne_4"/>
+            <choice>
+               <orig>Loix de France eſtablies par le peuple. 122.</orig>
+               <reg>Loix de France eſtablies par le peuple. 122.</reg>
+            </choice>
+            <lb corresp="#f00240_line_5_ligne_5"/>
+            <choice>
+               <orig>M</orig>
+               <reg>M</reg>
+            </choice>
+            <lb corresp="#f00240_line_4_ligne_6"/>
+            <choice>
+               <orig>Maires du Palais.</orig>
+               <reg>Maires du Palais.</reg>
+            </choice>
+            <lb corresp="#f00240_line_14_ligne_7"/>
+            <choice>
+               <orig>124.</orig>
+               <reg>124.</reg>
+            </choice>
+            <lb corresp="#f00240_line_6_ligne_8"/>
+            <choice>
+               <orig>Maieſté Royale où a ſon ſiege.</orig>
+               <reg>Maieſté Royale où a ſon ſiege.</reg>
+            </choice>
+            <lb corresp="#f00240_line_15_ligne_9"/>
+            <choice>
+               <orig>108.</orig>
+               <reg>108.</reg>
+            </choice>
+            <lb corresp="#f00240_line_7_ligne_10"/>
+            <choice>
+               <orig>Marſeille Vniuerſité anciene.</orig>
+               <reg>Marſeille Vniuerſité anciene.</reg>
+            </choice>
+            <lb corresp="#f00240_eSc_line_486c5234_ligne_11"/>
+            <choice>
+               <orig>P</orig>
+               <reg>P</reg>
+            </choice>
+            <lb corresp="#f00240_line_16_ligne_12"/>
+            <choice>
+               <orig>14</orig>
+               <reg>14</reg>
+            </choice>
+            <lb corresp="#f00240_line_8_ligne_13"/>
+            <choice>
+               <orig>Pairs de France.</orig>
+               <reg>Pairs de France.</reg>
+            </choice>
+            <lb corresp="#f00240_line_17_ligne_14"/>
+            <choice>
+               <orig>145.</orig>
+               <reg>145.</reg>
+            </choice>
+            <lb corresp="#f00240_line_9_ligne_15"/>
+            <choice>
+               <orig>Pairs de la Cour.</orig>
+               <reg>Pairs de la Cour.</reg>
+            </choice>
+            <lb corresp="#f00240_line_18_ligne_16"/>
+            <choice>
+               <orig>146.</orig>
+               <reg>146.</reg>
+            </choice>
+            <lb corresp="#f00240_line_10_ligne_17"/>
+            <choice>
+               <orig>Palais de Paris par qui baſty.</orig>
+               <reg>Palais de Paris par qui baſty.</reg>
+            </choice>
+            <lb corresp="#f00240_line_19_ligne_18"/>
+            <choice>
+               <orig>202.</orig>
+               <reg>202.</reg>
+            </choice>
+            <lb corresp="#f00240_line_11_ligne_19"/>
+            <choice>
+               <orig>Paris eſchole de Chicanerie.</orig>
+               <reg>Paris eſchole de Chicanerie.</reg>
+            </choice>
+            <lb corresp="#f00240_line_20_ligne_20"/>
+            <choice>
+               <orig>198.</orig>
+               <reg>198.</reg>
+            </choice>
+            <lb corresp="#f00240_line_12_ligne_21"/>
+            <choice>
+               <orig>Plectrude Regente.</orig>
+               <reg>Plectrude Regente.</reg>
+            </choice>
+            <lb corresp="#f00240_line_21_ligne_22"/>
+            <choice>
+               <orig>188.</orig>
+               <reg>188.</reg>
+            </choice>
+            <lb corresp="#f00240_line_22_ligne_23"/>
+            <choice>
+               <orig>Proces d’où ſont venus en France.</orig>
+               <reg>Proces d’où ſont venus en France.</reg>
+            </choice>
+            <lb corresp="#f00240_eSc_line_7a6501e5_ligne_24"/>
+            <choice>
+               <orig>203.</orig>
+               <reg>203.</reg>
+            </choice>
+            <lb corresp="#f00240_line_23_ligne_25"/>
+            <choice>
+               <orig>R</orig>
+               <reg>R</reg>
+            </choice>
+            <lb corresp="#f00240_line_24_ligne_26"/>
+            <choice>
+               <orig>Roynes meres cruelles.</orig>
+               <reg>Roynes meres cruelles.</reg>
+            </choice>
+            <lb corresp="#f00240_line_27_ligne_27"/>
+            <choice>
+               <orig>110.183.</orig>
+               <reg>110.183.</reg>
+            </choice>
+            <lb corresp="#f00240_line_25_ligne_28"/>
+            <choice>
+               <orig>Roys aiſez à gaigner par voluptez.</orig>
+               <reg>Roys aiſez à gaigner par voluptez.</reg>
+            </choice>
+            <lb corresp="#f00240_line_28_ligne_29"/>
+            <choice>
+               <orig>175.</orig>
+               <reg>175.</reg>
+            </choice>
+            <lb corresp="#f00240_line_26_ligne_30"/>
+            <choice>
+               <orig>Royaume de Chicanerie.</orig>
+               <reg>Royaume de Chicanerie.</reg>
+            </choice>
+            <lb corresp="#f00240_line_29_ligne_31"/>
+            <choice>
+               <orig>197.</orig>
+               <reg>197.</reg>
+            </choice>
+            <lb corresp="#f00240_line_30_ligne_32"/>
+            <choice>
+               <orig>Roys depoſez par les Eſtats.</orig>
+               <reg>Roys depoſez par les Eſtats.</reg>
+            </choice>
+            <lb corresp="#f00240_eSc_line_4cfda2ea_ligne_33"/>
+            <choice>
+               <orig>67.68.69.</orig>
+               <reg>67.68.69.</reg>
+            </choice>
+            <lb corresp="#f00240_line_31_ligne_34"/>
+            <choice>
+               <orig>Roys auec puiſſance abſolue, Roys des be¬</orig>
+               <reg>Roys auec puiſſance abſolue, Roys des be¬</reg>
+            </choice>
+            <lb corresp="#f00240_line_32_ligne_35"/>
+            <choice>
+               <orig>ſtes.</orig>
+               <reg>ſtes.</reg>
+            </choice>
+            <lb corresp="#f00240_line_33_ligne_36"/>
+            <choice>
+               <orig>100.</orig>
+               <reg>100.</reg>
+            </choice>
+            <lb corresp="#f00240_line_34_ligne_37"/>
+            <choice>
+               <orig>Royaume de France ancienement non he¬</orig>
+               <reg>Royaume de France ancienement non he¬</reg>
+            </choice>
+            <lb corresp="#f00240_line_35_ligne_38"/>
+            <choice>
+               <orig>reditaire.</orig>
+               <reg>reditaire.</reg>
+            </choice>
+            <lb corresp="#f00240_line_37_ligne_39"/>
+            <choice>
+               <orig>61.</orig>
+               <reg>61.</reg>
+            </choice>
+            <lb corresp="#f00240_line_36_ligne_40"/>
+            <choice>
+               <orig>Roy ſans bride deuient tyran.</orig>
+               <reg>Roy ſans bride deuient tyran.</reg>
+            </choice>
+            <lb corresp="#f00240_line_38_ligne_41"/>
+            <choice>
+               <orig>12.</orig>
+               <reg>12.</reg>
+            </choice>
+            <lb corresp="#f00240_line_39_ligne_42"/>
+            <choice>
+               <orig>Roy ne peut aliener ſon domaine ſans l’ad¬</orig>
+               <reg>Roy ne peut aliener ſon domaine ſans l’ad¬</reg>
+            </choice>
+            <lb corresp="#f00240_line_40_ligne_43"/>
+            <choice>
+               <orig>uis des Eſtats.</orig>
+               <reg>uis des Eſtats.</reg>
+            </choice>
+            <lb corresp="#f00240_line_41_ligne_44"/>
+            <choice>
+               <orig>170.</orig>
+               <reg>170.</reg>
+            </choice>
+            <lb corresp="#f00240_line_42_ligne_45"/>
+            <choice>
+               <orig>Romains tyrans intolerables aux Gaulois.</orig>
+               <reg>Romains tyrans intolerables aux Gaulois.</reg>
+            </choice>
+            <lb corresp="#f00240_line_43_ligne_46"/>
+            <choice>
+               <orig>29.</orig>
+               <reg>29.</reg>
+            </choice>
+            <lb corresp="#f00240_eSc_line_89820207_ligne_47"/>
+            <choice>
+               <orig>s</orig>
+               <reg>s</reg>
+            </choice>
+            <lb corresp="#f00240_line_44_ligne_48"/>
+            <choice>
+               <orig>Saliens François.</orig>
+               <reg>Saliens François.</reg>
+            </choice>
+            <lb corresp="#f00240_line_45_ligne_49"/>
+            <choice>
+               <orig>53.</orig>
+               <reg>53.</reg>
+            </choice>
+         </ab>
+         <note corresp="#f00240_block_0" type="MarginTextZone-ManuscriptAddendum">
+            <lb corresp="#f00240_eSc_line_18b3af36_ligne_2"/>
+            <choice>
+               <orig>215</orig>
+               <reg>215</reg>
+            </choice>
+         </note>
          <pb corresp="f00241"/>
          <fw corresp="#f00241_block_0" type="RunningTitleZone">
             <hi>
@@ -165585,6 +166314,108 @@
                </choice>
             </hi>
          </fw>
+         <ab corresp="#f00241_block_3" type="TitlePageZone-Index">
+            <lb corresp="#f00241_line_1_ligne_2"/>
+            <choice>
+               <orig>Salique Loy.</orig>
+               <reg>Salique Loy.</reg>
+            </choice>
+            <lb corresp="#f00241_line_2_ligne_3"/>
+            <choice>
+               <orig>81.83.</orig>
+               <reg>81.83.</reg>
+            </choice>
+            <lb corresp="#f00241_line_3_ligne_4"/>
+            <choice>
+               <orig>Seditions quelquefois iuſtes &amp; neceſſaires.</orig>
+               <reg>Seditions quelquefois iuſtes &amp; neceſſaires.</reg>
+            </choice>
+            <lb corresp="#f00241_eSc_line_f495e993_ligne_5"/>
+            <choice>
+               <orig>175.</orig>
+               <reg>175.</reg>
+            </choice>
+            <lb corresp="#f00241_line_4_ligne_6"/>
+            <choice>
+               <orig>Suiſſes d'où nommez.</orig>
+               <reg>Suiſſes d'où nommez.</reg>
+            </choice>
+            <lb corresp="#f00241_line_5_ligne_7"/>
+            <choice>
+               <orig>46.</orig>
+               <reg>46.</reg>
+            </choice>
+            <lb corresp="#f00241_eSc_line_ba0491ef_ligne_8"/>
+            <choice>
+               <orig>T</orig>
+               <reg>T</reg>
+            </choice>
+            <lb corresp="#f00241_line_6_ligne_9"/>
+            <choice>
+               <orig>Taprobane iſle où les Roys eſtoyent bri¬</orig>
+               <reg>Taprobane iſle où les Roys eſtoyent bri¬</reg>
+            </choice>
+            <lb corresp="#f00241_line_7_ligne_10"/>
+            <choice>
+               <orig>dez.</orig>
+               <reg>dez.</reg>
+            </choice>
+            <lb corresp="#f00241_line_9_ligne_11"/>
+            <choice>
+               <orig>104.</orig>
+               <reg>104.</reg>
+            </choice>
+            <lb corresp="#f00241_line_8_ligne_12"/>
+            <choice>
+               <orig>Thierry Roy de France depoſé.</orig>
+               <reg>Thierry Roy de France depoſé.</reg>
+            </choice>
+            <lb corresp="#f00241_line_10_ligne_13"/>
+            <choice>
+               <orig>69.</orig>
+               <reg>69.</reg>
+            </choice>
+            <lb corresp="#f00241_line_11_ligne_14"/>
+            <choice>
+               <orig>Tyrannie ſe cognoiſt à trois marques.</orig>
+               <reg>Tyrannie ſe cognoiſt à trois marques.</reg>
+            </choice>
+            <lb corresp="#f00241_line_12_ligne_15"/>
+            <choice>
+               <orig>95.</orig>
+               <reg>95.</reg>
+            </choice>
+            <lb corresp="#f00241_eSc_line_2d288673_ligne_16"/>
+            <choice>
+               <orig>V</orig>
+               <reg>V</reg>
+            </choice>
+            <lb corresp="#f00241_line_13_ligne_17"/>
+            <choice>
+               <orig>Venetiens, ceux de Vannes en Bretaigne.</orig>
+               <reg>Venetiens, ceux de Vannes en Bretaigne.</reg>
+            </choice>
+            <lb corresp="#f00241_eSc_line_6620d000_ligne_18"/>
+            <choice>
+               <orig>8.</orig>
+               <reg>8.</reg>
+            </choice>
+            <lb corresp="#f00241_line_14_ligne_19"/>
+            <choice>
+               <orig>Valentinian fait mourir le plus vaillant de</orig>
+               <reg>Valentinian fait mourir le plus vaillant de</reg>
+            </choice>
+            <lb corresp="#f00241_line_15_ligne_20"/>
+            <choice>
+               <orig>ſes Capitaines par enuie.</orig>
+               <reg>ſes Capitaines par enuie.</reg>
+            </choice>
+            <lb corresp="#f00241_eSc_line_15c7ef67_ligne_21"/>
+            <choice>
+               <orig>57.</orig>
+               <reg>57.</reg>
+            </choice>
+         </ab>
          <ab corresp="#f00241_eSc_textblock_e57f59f7" type="MainZone">
             <lb corresp="#f00241_eSc_line_e4b0e3b4_ligne_2"/>
             <choice>
@@ -165599,6 +166430,19 @@
          <pb corresp="f00246"/>
          <pb corresp="f00247"/>
          <pb corresp="f00248"/>
+         <note corresp="#f00248_eSc_textblock_a000b710"
+               type="MarginTextZone-ManuscriptAddendum">
+            <lb corresp="#f00248_eSc_line_f9ac4e36_ligne_2"/>
+            <choice>
+               <orig>Df  798.</orig>
+               <reg>Df  798.</reg>
+            </choice>
+            <lb corresp="#f00248_eSc_line_f398b59b_ligne_3"/>
+            <choice>
+               <orig>Rés</orig>
+               <reg>Rés</reg>
+            </choice>
+         </note>
          <pb corresp="f00249"/>
          <pb corresp="f00250"/>
          <pb corresp="f00251"/>
