@@ -23,15 +23,15 @@
             </respStmt>
             <respStmt>
                <resp>Analyse de mise en page (zonage), révision de l’OCR </resp>
-               <persName xml:id="LP">
-                  <forename>Lorenzo</forename>
-                  <surname>Paoli</surname>
-                  <ptr type="orcid" target="0000-0002-2592-8724"/>
-               </persName>
                <persName>
                   <forename>Alyzé</forename>
                   <surname>Bianco</surname>
                   <ptr type="orcid" target="0009-0001-8423-0350"/>
+               </persName>
+               <persName xml:id="LP">
+                  <forename>Lorenzo</forename>
+                  <surname>Paoli</surname>
+                  <ptr type="orcid" target="0000-0002-2592-8724"/>
                </persName>
                <persName xml:id="NC">
                   <forename>Nicolas</forename>
